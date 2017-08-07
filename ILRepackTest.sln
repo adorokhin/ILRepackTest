@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILRepackTest.Lib1", "ILRepackTest.Lib1\ILRepackTest.Lib1.csproj", "{0373CB21-781E-46DF-9EEF-D38D8F6ACE2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILRepackTest.Lib2", "ILRepackTest.Lib2\ILRepackTest.Lib2.csproj", "{5C568654-F135-4150-A291-1994F038ABE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILRepackTest.App", "ILRepackTest.App\ILRepackTest.App.csproj", "{F85B4399-8CE6-4A3D-BA30-B3AC98321016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0373CB21-781E-46DF-9EEF-D38D8F6ACE2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0373CB21-781E-46DF-9EEF-D38D8F6ACE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0373CB21-781E-46DF-9EEF-D38D8F6ACE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0373CB21-781E-46DF-9EEF-D38D8F6ACE2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C568654-F135-4150-A291-1994F038ABE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C568654-F135-4150-A291-1994F038ABE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C568654-F135-4150-A291-1994F038ABE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C568654-F135-4150-A291-1994F038ABE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85B4399-8CE6-4A3D-BA30-B3AC98321016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85B4399-8CE6-4A3D-BA30-B3AC98321016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85B4399-8CE6-4A3D-BA30-B3AC98321016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85B4399-8CE6-4A3D-BA30-B3AC98321016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
